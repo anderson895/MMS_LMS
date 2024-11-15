@@ -62,7 +62,7 @@
                     }
                     ?>
 
-                    <button type="submit" class="w-full bg-blue-500 text-white p-3 rounded-md hover:bg-blue-600 transition duration-300">Login</button>
+                    <button type="submit" name="login" class="w-full bg-blue-500 text-white p-3 rounded-md hover:bg-blue-600 transition duration-300">Login</button>
                 </form>
             </div>
         </div>
